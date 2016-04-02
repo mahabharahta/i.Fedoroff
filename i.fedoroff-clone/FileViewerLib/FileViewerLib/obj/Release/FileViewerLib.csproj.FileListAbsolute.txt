@@ -1,0 +1,14 @@
+F:\Google Диск\FileViewerLib\FileViewerLib\bin\Release\FileViewerLib.dll
+F:\Google Диск\FileViewerLib\FileViewerLib\bin\Release\FileViewerLib.pdb
+F:\Google Диск\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.csprojResolveAssemblyReference.cache
+F:\Google Диск\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.Resources.resources
+F:\Google Диск\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.csproj.GenerateResource.Cache
+F:\Google Диск\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.dll
+F:\Google Диск\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.pdb
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\bin\Release\FileViewerLib.dll
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\bin\Release\FileViewerLib.pdb
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.csprojResolveAssemblyReference.cache
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.Resources.resources
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.csproj.GenerateResource.Cache
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.dll
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Release\FileViewerLib.pdb

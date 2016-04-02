@@ -1,0 +1,73 @@
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.Form1.resources
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.Properties.Resources.resources
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csproj.GenerateResource.Cache
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.exe
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.pdb
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe.config
+C:\Documents and Settings\Владелец\Рабочий стол\I.Fedoroff\I.Fedoroff\bin\Release\GongShell.dll
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe.config
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.exe
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.pdb
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.pdb
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\bin\Release\GongShell.dll
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.Properties.Resources.resources
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csproj.GenerateResource.Cache
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csprojResolveAssemblyReference.cache
+C:\Users\денис\Desktop\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.FormMain.resources
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\bin\Release\I.Fedoroff.exe.config
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\obj\Release\I.Fedoroff.exe
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\obj\Release\I.Fedoroff.pdb
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\obj\Release\I.Fedoroff.csprojResolveAssemblyReference.cache
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\obj\Release\I.Fedoroff.FormMain.resources
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\obj\Release\I.Fedoroff.Properties.Resources.resources
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\obj\Release\I.Fedoroff.csproj.GenerateResource.Cache
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\bin\Release\I.Fedoroff.exe
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\bin\Release\I.Fedoroff.pdb
+C:\Users\денис\Desktop\I.Fedoroff – копія\I.Fedoroff\bin\Release\GongShell.dll
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe.config
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.exe
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.pdb
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.pdb
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\bin\Release\GongShell.dll
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csprojResolveAssemblyReference.cache
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.FormMain.resources
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.Properties.Resources.resources
+F:\Google Диск\I (1).Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csproj.GenerateResource.Cache
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe.config
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.exe
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.pdb
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.pdb
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\bin\Release\GongShell.dll
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csprojResolveAssemblyReference.cache
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.FormMain.resources
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.Properties.Resources.resources
+C:\Users\денис\Downloads\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csproj.GenerateResource.Cache
+F:\Google Диск\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe.config
+F:\Google Диск\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.exe
+F:\Google Диск\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.pdb
+F:\Google Диск\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe
+F:\Google Диск\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.pdb
+F:\Google Диск\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csprojResolveAssemblyReference.cache
+F:\Google Диск\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.FormMain.resources
+F:\Google Диск\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.Properties.Resources.resources
+F:\Google Диск\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csproj.GenerateResource.Cache
+F:\Google Диск\I.Fedoroff\I.Fedoroff\bin\Release\GongShell.dll
+F:\Google Диск\I.Fedoroff\I.Fedoroff\bin\Release\FileViewerLib.dll
+F:\Google Диск\I.Fedoroff\I.Fedoroff\bin\Release\FileViewerLib.pdb
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe.config
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.exe
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.pdb
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csprojResolveAssemblyReference.cache
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.FormMain.resources
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.Properties.Resources.resources
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\obj\Release\I.Fedoroff.csproj.GenerateResource.Cache
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.exe
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\bin\Release\I.Fedoroff.pdb
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\bin\Release\FileViewerLib.dll
+F:\Google Диск\Fedoroff Project\I.Fedoroff\I.Fedoroff\bin\Release\FileViewerLib.pdb

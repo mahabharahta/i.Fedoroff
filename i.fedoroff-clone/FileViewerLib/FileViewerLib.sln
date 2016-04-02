@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileViewerLib", "FileViewerLib\FileViewerLib.csproj", "{AE43BB19-040D-4199-98F7-4B23E6B35268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{65E4D09A-1B8A-4609-8E76-C99C8608C442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE43BB19-040D-4199-98F7-4B23E6B35268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE43BB19-040D-4199-98F7-4B23E6B35268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE43BB19-040D-4199-98F7-4B23E6B35268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE43BB19-040D-4199-98F7-4B23E6B35268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E4D09A-1B8A-4609-8E76-C99C8608C442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E4D09A-1B8A-4609-8E76-C99C8608C442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E4D09A-1B8A-4609-8E76-C99C8608C442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E4D09A-1B8A-4609-8E76-C99C8608C442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

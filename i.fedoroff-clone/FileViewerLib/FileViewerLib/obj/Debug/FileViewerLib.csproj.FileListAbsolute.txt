@@ -1,0 +1,20 @@
+E:\Visual Studio 2012\Projects\FileViewerLib\FileViewerLib\bin\Debug\FileViewerLib.dll
+E:\Visual Studio 2012\Projects\FileViewerLib\FileViewerLib\bin\Debug\FileViewerLib.pdb
+E:\Visual Studio 2012\Projects\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.dll
+E:\Visual Studio 2012\Projects\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.pdb
+E:\Visual Studio 2012\Projects\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.Resources.resources
+E:\Visual Studio 2012\Projects\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.csproj.GenerateResource.Cache
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\bin\Debug\FileViewerLib.dll
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\bin\Debug\FileViewerLib.pdb
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.Resources.resources
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.csproj.GenerateResource.Cache
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.dll
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.pdb
+F:\Google Диск\Fedoroff Project\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.csprojResolveAssemblyReference.cache
+C:\Users\денис\Desktop\Fedoroff Project\i.fedoroff-clone\FileViewerLib\FileViewerLib\bin\Debug\FileViewerLib.dll
+C:\Users\денис\Desktop\Fedoroff Project\i.fedoroff-clone\FileViewerLib\FileViewerLib\bin\Debug\FileViewerLib.pdb
+C:\Users\денис\Desktop\Fedoroff Project\i.fedoroff-clone\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.csprojResolveAssemblyReference.cache
+C:\Users\денис\Desktop\Fedoroff Project\i.fedoroff-clone\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.Resources.resources
+C:\Users\денис\Desktop\Fedoroff Project\i.fedoroff-clone\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.csproj.GenerateResource.Cache
+C:\Users\денис\Desktop\Fedoroff Project\i.fedoroff-clone\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.dll
+C:\Users\денис\Desktop\Fedoroff Project\i.fedoroff-clone\FileViewerLib\FileViewerLib\obj\Debug\FileViewerLib.pdb
